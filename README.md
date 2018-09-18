@@ -6,5 +6,6 @@ To install endpoint protection simply clone this repository and run the appropri
 
 - Windows users should run setup.exe
 - Linux users should run linux-setup.sh
+- Mac Support Coming Soon
 
 For support with this product please email the SOC at Jigsaw Security or open an issue here on Github
