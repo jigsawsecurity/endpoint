@@ -8,3 +8,5 @@ To install endpoint protection simply clone this repository and run the appropri
 - Ubuntu Linux Users should run ubuntu-install.sh
 
 For support with this product please email the SOC at Jigsaw Security or open an issue here on Github
+
+Please note that this is the open source version of the product. For enterprise support you must subscribe to Jigsaw Security Threat Intelligence to ensure you are protected against the latest attacks. For more information on our enterprise solutions please visit our website at https://www.jigsawsecurityenterprise.com 
