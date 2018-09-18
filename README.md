@@ -1,6 +1,8 @@
 # Jigsaw Security Endpoint Protection
 The Jigsaw Security Endpoint Protection takes our open source sensor product and incorporates our threat intelligence data for protecting individual workstations. 
 
+![alt tag](https://github.com/jigsawsecurity/jigsawsensor/blob/master/JS.png?raw=true)
+
 # Installation
 To install endpoint protection simply clone this repository and run the appropriate installation script. You will be prompted for your Jigsaw Security API key during the installation. Without this key, the product will not stay up to date and will only protect against static threats. Ensure you activate your subscription to ensure that your system is fully protected. 
 
